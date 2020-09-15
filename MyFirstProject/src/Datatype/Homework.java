@@ -44,7 +44,7 @@ public class Homework {
 					System.out.println("john is 18 or younger");
 				}
 				else {
-					System.out.println("john is older then 18");
+					System.out.println("john is older than 18");
 				}
 
 		
